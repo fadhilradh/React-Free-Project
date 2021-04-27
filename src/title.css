@@ -1,0 +1,13 @@
+.title {
+   color: #fff;
+   font-family: "Helvetica";
+   margin-top: 0;
+   padding-top: 24px;
+   font-size: 5rem;
+}
+
+.subtitle {
+   font-family: "Lucida Handwriting";
+   color: rgb(21, 193, 255);
+   font-size: 2rem;
+}

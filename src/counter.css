@@ -1,0 +1,11 @@
+.container {
+   display: flex;
+   width: 100%;
+   justify-content: center;
+}
+
+.counter-container {
+   display: flex;
+   width: 8rem;
+   justify-content: space-between;
+}
